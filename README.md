@@ -22,9 +22,9 @@ sequenceDiagram
 
 # Pulse: Employee Sentiment Visualization Dashboard
 
-![Dashboard Preview](asset\1.png)  
-![Dashboard Preview](asset\2.png)  
-![Dashboard Preview](asset\3.png)  
+![Dashboard Preview](https://github.com/AmarnathaGowda/Pulse/blob/main/asset/1.png)  
+![Dashboard Preview](https://github.com/AmarnathaGowda/Pulse/blob/main/asset/2.png)  
+![Dashboard Preview](https://github.com/AmarnathaGowda/Pulse/blob/main/asset/3.png)  
 
 
 **Pulse** is an interactive dashboard that analyzes and visualizes employee feedback to provide insights into workplace sentiment. Using Natural Language Processing (NLP) and data visualization, Pulse helps HR teams and managers understand employee morale, track trends over time, and identify areas for improvement.
