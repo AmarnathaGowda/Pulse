@@ -1,7 +1,3 @@
-# Pulse
-Employee Sentiment Visualization Dashboard
-
-
 # Pulse: Employee Sentiment Visualization Dashboard
 
 ![Dashboard Preview](https://github.com/AmarnathaGowda/Pulse/blob/main/asset/1.png)  
